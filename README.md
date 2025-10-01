@@ -4,7 +4,7 @@ Site de test WCC. 🦄
 
 _Last updated: 01 Oct 2025_
 
-## What's in this project?
+## Contenu à connaître
 
 ← `README.md`: Info sur le site.
 
